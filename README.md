@@ -12,3 +12,10 @@ Run the script in a terminal:
 
 ```bash
 bash simple-interest.sh
+```
+
+Follow the prompts to enter values for principal, rate, and time.
+
+## License
+
+This project is licensed under the Apache License 2.0.
